@@ -31,6 +31,6 @@ while num != 0:
     num = num//10
     count = count +1
     
-print("toital digit is = ", count)
+print("total digit is = ", count)
 
 
